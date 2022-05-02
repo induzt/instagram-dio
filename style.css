@@ -127,6 +127,21 @@ body {
     background-image: url('./img/googleplay-button.png');
 }
 
+.not-account a:visited {
+    color: #0095f6;
+}
+ /* quando o ponteiro do mouse passa no link */
+ .not-account a:hover {
+     color: #0095f6;
+}
+
+/* Para quando for selecionado
+.not-account a:active {
+    color: black;
+} */
+
+
+
 /* media queries */
 
 
